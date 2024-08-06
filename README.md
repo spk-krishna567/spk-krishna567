@@ -43,4 +43,4 @@ I aspire to be the best software engineer and entrepreneur, continuously seeking
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=spk-krishna567&show_icons=true&theme=radical)
