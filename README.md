@@ -39,7 +39,7 @@ I aspire to be the best software engineer and entrepreneur, continuously seeking
 - **Tools & Technologies:** Selenium WebDriver, AWS, Docker
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tarugu-uma-maheswar-reddy-b965a2244/))
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/tarugu-uma-maheswar-reddy-b965a2244/)
 - **Email:** [20191a0567jntucep@gmail.com](20191a0567jntucep@gmail.com)
 
 ## 📈 GitHub Stats
