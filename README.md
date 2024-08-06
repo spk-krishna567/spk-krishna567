@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tarugu Uma Maheswar Reddy! 👋
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with expertise in MERN, MEAN, and Django stacks. My technical arsenal includes MongoDB, SQL, PostgreSQL, and Prisma, and I specialize in web scraping using Selenium WebDriver. For deployment and DevOps, I leverage the power of AWS and Docker.
@@ -39,8 +39,8 @@ I aspire to be the best software engineer and entrepreneur, continuously seeking
 - **Tools & Technologies:** Selenium WebDriver, AWS, Docker
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tarugu-uma-maheswar-reddy-b965a2244/))
+- **Email:** [20191a0567jntucep@gmail.com](20191a0567jntucep@gmail.com)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spk-krishna567&layout=compact&theme=radical)
